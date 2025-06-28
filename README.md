@@ -1,6 +1,5 @@
-# 🧩 Django Employee Management Project
 
-A basic Django project for managing employee data with CRUD functionality.
+
 
 ## 📁 Project Structure
 
